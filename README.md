@@ -1,0 +1,2 @@
+# DiretoriaHoteis
+Software desenvolvido utilizando a linguagem JAVA Desktop (Swing) com banco de dados Mysql com o foco no gerenciamento de Hotéis. O Sistema possuí uma Login (Validando no banco de dados Mysql), CRUD de clientes , CRUD de Quartos, Possibilita efetuar  reserva de quartos, Possibilita efetuar buscas de quartos que não estão reservados para efetuar uma nova reserva entre outras funcionalidades.
